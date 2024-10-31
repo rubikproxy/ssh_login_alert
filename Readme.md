@@ -1,4 +1,3 @@
-
 # SSH Alert Monitoring Service - Client Documentation
 
 ## Overview
